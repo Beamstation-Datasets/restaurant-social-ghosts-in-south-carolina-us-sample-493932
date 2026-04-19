@@ -1,6 +1,6 @@
 # Restaurant Social Ghosts in South Carolina, US
 
-> Free BeamStation sample export with 28 rows and masked direct-contact fields.
+> Free BeamStation sample export with 25 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `493932` |
 | Location | South Carolina |
 | Category | Restaurants |
-| Full dataset size | 281 records |
-| Free sample size | 28 records (9.96%) |
-| Last export | 2026-04-08T06:43:37.551182+00:00 |
+| Full dataset size | 254 records |
+| Free sample size | 25 records (9.84%) |
+| Last export | 2026-04-15T10:15:42.638296+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/restaurant-social-ghosts-in-south-carolina-us-sample-493932/releases/download/sample-latest/beamstation_493932_restaurants-us-sc_SAMPLE_DIST.csv) |
 
 ## What is in this sample
