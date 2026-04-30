@@ -1,12 +1,12 @@
 {
-  "export_job_id": "4eff2bf7-62a6-46a7-aadc-c612ba448436",
+  "export_job_id": "834557c1-c16c-43d6-8695-0062bd1cd36c",
   "id_short": 493932,
-  "published_at": "2026-04-22T19:48:52Z",
+  "published_at": "2026-04-30T07:31:13Z",
   "repo_name": "restaurant-social-ghosts-in-south-carolina-us-sample-493932",
   "sample_asset_name": "beamstation_493932_restaurants-us-sc_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/493932/beamstation_493932_restaurants-us-sc_SAMPLE_DIST.csv",
-  "sample_records": 3,
-  "sample_sha256": "63483e7044b5e8e49e32619cf8e860e4b046aea9f23dc92e09240f7aeff73470",
-  "sample_size_bytes": 27828,
-  "total_records": 36
+  "sample_records": 4,
+  "sample_sha256": "ffd353959bcddede1e4d991bdbc84e4d86cd420a8d1a352ece197b0c1eb9bd2f",
+  "sample_size_bytes": 32134,
+  "total_records": 43
 }
